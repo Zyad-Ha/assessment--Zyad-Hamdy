@@ -1,0 +1,69 @@
+﻿<Window x:Class="Zyad_Hamdy_assessment.adminWindow1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zyad_Hamdy_assessment"
+        mc:Ignorable="d"
+        Title="adminWindow1" Height="450" Width="850">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="167*" ></RowDefinition>
+            <RowDefinition Height="167*"></RowDefinition>
+            <RowDefinition Height="100*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid Name="empDG" Grid.Row="0" Margin="50,16,50,15" SelectionChanged="empDG_SelectionChanged" />
+
+
+        <StackPanel Orientation="Horizontal" Margin="0,167,0,0" Grid.RowSpan="2">
+            <StackPanel Margin="0,10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                <Label Content="Employee ID: " FontSize="18" Height="35" Width="113"></Label>
+                <TextBox Name="idtxtb" Width="100" Height="35" BorderBrush="Black" BorderThickness="1" ></TextBox>
+            </StackPanel>
+            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                <Label Content="Name: " FontSize="18" Height="35" Width="69"></Label>
+                <TextBox Name="nametxtb2" Width="100" Height="35" BorderBrush="Black" BorderThickness="1" ></TextBox>
+            </StackPanel>
+            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                <Label Content="password: " FontSize="18" Height="35" Width="95"></Label>
+                <TextBox Name="passtxtb2" Width="100" Height="35" BorderBrush="Black" BorderThickness="1" ></TextBox>
+            </StackPanel>
+            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                <Label Content="Email: " FontSize="18" Height="35" Width="64"></Label>
+                <TextBox Name="emailtxtb2" Width="100" Height="35" BorderBrush="Black" BorderThickness="1" />
+            </StackPanel>
+        </StackPanel>
+
+
+
+        <StackPanel Orientation="Horizontal" Margin="0,167,0,0" Grid.RowSpan="2">
+            <StackPanel Margin="0,10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" >
+                <Label Content="address: " FontSize="18" Height="35" Width="92"></Label>
+                <TextBox Name="addresstxtb" Width="100" Height="35" BorderBrush="Black" BorderThickness="1" ></TextBox>
+            </StackPanel>
+            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" >
+                <Label Content="Jop title: " FontSize="18" Height="35" Width="88"></Label>
+                <TextBox Name="jtitletxtb" Width="100" Height="35" BorderBrush="Black" BorderThickness="1" ></TextBox>
+            </StackPanel>
+            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" >
+                <Label Content="salary: " FontSize="18" Height="35" Width="95"></Label>
+                <TextBox Name="salarytxtb" Width="100" Height="35" BorderBrush="Black" BorderThickness="1" ></TextBox>
+            </StackPanel>
+            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" >
+                <Label Content="Dep iD: " FontSize="18" Height="35" Width="86"></Label>
+                <TextBox Name="Didtxtb" Width="97" Height="35" BorderBrush="Black" BorderThickness="1" ></TextBox>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top" Height="60" Margin="0,109,0,0" Grid.RowSpan="2" Width="710" >
+            <Button Width="200" Height="40" Content="Add" Grid.Row="1" Margin="10" FontSize="20" Click="Button_Click"></Button>
+            <Button Width="250" Height="40" Content="Update" Grid.Row="1" Margin="10" FontSize="20" Click="Button_Click_1"></Button>
+            <Button Width="200" Height="40" Content="Delete" Grid.Row="1" Margin="10" FontSize="20" Click="Button_Click_2"></Button>
+        </StackPanel>
+
+        <Button HorizontalAlignment="Center" FontSize="18" VerticalAlignment="Top" Width="150" Height="35" Grid.Row="2" Content="see requests" Margin="0,38,0,0" Click="Button_Click_3" ></Button>
+
+
+
+    </Grid>
+</Window>

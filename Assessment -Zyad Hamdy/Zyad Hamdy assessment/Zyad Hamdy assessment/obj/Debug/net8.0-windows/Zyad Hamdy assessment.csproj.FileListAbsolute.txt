@@ -1,0 +1,67 @@
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Zyad Hamdy assessment.exe
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Zyad Hamdy assessment.deps.json
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Zyad Hamdy assessment.runtimeconfig.json
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Zyad Hamdy assessment.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Zyad Hamdy assessment.pdb
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.csproj.AssemblyReference.cache
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\adminWindow1.g.cs
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\empWindow1.g.cs
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment_MarkupCompile.cache
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment_MarkupCompile.lref
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\adminWindow1.baml
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\empWindow1.baml
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.g.resources
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.AssemblyInfoInputs.cache
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.AssemblyInfo.cs
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Ham.BA83BA56.Up2Date
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\refint\Zyad Hamdy assessment.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.pdb
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\Zyad Hamdy assessment.genruntimeconfig.cache
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\ref\Zyad Hamdy assessment.dll
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\ERequestsWindow1.g.cs
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\ERequestsWindow1.baml
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\AdminReq.g.cs
+C:\Users\lab\source\repos\Zyad Hamdy assessment\Zyad Hamdy assessment\obj\Debug\net8.0-windows\AdminReq.baml

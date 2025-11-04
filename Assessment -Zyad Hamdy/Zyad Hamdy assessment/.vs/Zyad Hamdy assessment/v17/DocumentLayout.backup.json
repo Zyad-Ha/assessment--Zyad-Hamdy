@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\adminreq.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\adminreq.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\adminreq.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\adminreq.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\erequestswindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\erequestswindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\erequestswindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\erequestswindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\empwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\empwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\empwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\empwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\adminwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\adminwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\adminwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\adminwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|c:\\users\\lab\\source\\repos\\zyad hamdy assessment\\zyad hamdy assessment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA1CC888-74FF-4F33-90F0-047320CC38DC}|Zyad Hamdy assessment\\Zyad Hamdy assessment.csproj|solutionrelative:zyad hamdy assessment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:31:15.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Models\\User.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:31:01.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Models\\Department.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:31:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ERequestsWindow1.xaml",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\ERequestsWindow1.xaml",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\ERequestsWindow1.xaml",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\ERequestsWindow1.xaml",
+              "RelativeToolTip": "Zyad Hamdy assessment\\ERequestsWindow1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T08:17:42.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\App.xaml",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\App.xaml",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\App.xaml",
+              "RelativeToolTip": "Zyad Hamdy assessment\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T06:59:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adminWindow1.xaml",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\adminWindow1.xaml",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\adminWindow1.xaml",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\adminWindow1.xaml",
+              "RelativeToolTip": "Zyad Hamdy assessment\\adminWindow1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T06:36:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminReq.xaml",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\AdminReq.xaml",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\AdminReq.xaml",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\AdminReq.xaml",
+              "RelativeToolTip": "Zyad Hamdy assessment\\AdminReq.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T10:23:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ERequestsWindow1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\ERequestsWindow1.xaml.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\ERequestsWindow1.xaml.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\ERequestsWindow1.xaml.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\ERequestsWindow1.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:30:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminReq.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\AdminReq.xaml.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\AdminReq.xaml.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\AdminReq.xaml.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\AdminReq.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAApwDkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:24:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "empWindow1.xaml",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\empWindow1.xaml",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\empWindow1.xaml",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\empWindow1.xaml",
+              "RelativeToolTip": "Zyad Hamdy assessment\\empWindow1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T06:37:09.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "empWindow1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\empWindow1.xaml.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\empWindow1.xaml.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\empWindow1.xaml.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\empWindow1.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAhwHEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:55:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminWindow1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\adminWindow1.xaml.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\adminWindow1.xaml.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\adminWindow1.xaml.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\adminWindow1.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADgv6sAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:57:00.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\lab\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKYBAAAAAAAAAAAQwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:35:38.767Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:40:49.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\Data\\Context.cs",
+              "RelativeToolTip": "Zyad Hamdy assessment\\Data\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:43:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\lab\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\lab\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:59:26.489Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Zyad Hamdy assessment\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lab\\source\\repos\\Zyad Hamdy assessment\\Zyad Hamdy assessment\\MainWindow.xaml",
+              "RelativeToolTip": "Zyad Hamdy assessment\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T05:40:52.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
